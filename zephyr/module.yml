@@ -1,0 +1,4 @@
+name: libmctp
+build:
+  cmake-ext: True
+  kconfig-ext: True
